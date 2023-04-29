@@ -1,0 +1,51 @@
+body { 
+    background-color: #BBBB;
+}
+header{
+    background: #BBBB;
+    padding: 20px 0;
+}
+#logo{
+    width: 20%;
+}
+.caixa{
+    width: 940px;
+    position: relative;
+    margin: 0 auto;
+}
+nav{
+    position: absolute;
+    top: 20%;
+    right: 0;
+}
+nav li{
+    display: inline;
+    margin: 0 0 0 15px;
+}
+nav a{
+    text-transform: uppercase;
+    color: #000;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: none;
+}
+nav a:hover{
+    color: blue;
+    font-size: 25px;
+}
+#banner {
+    width: 50%;
+}
+
+h1 {
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    text-align: center;
+    
+}
+
+p {
+    text-align: center;
+    background-color: #BBBB;
+    color: #000;
+}
